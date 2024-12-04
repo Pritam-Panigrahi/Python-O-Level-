@@ -1,0 +1,26 @@
+a = 20
+print("Value of A :- ",a)
+a += 5
+print("a += 5 :- ",a)
+a -= 5
+print("a -= 5 :- ",a)
+a *= 5
+print("a *= 5 :- ",a)
+a /= 5
+print("a /= 5 :- ",a)
+a %= 5
+print("a %= 5 :- ",a)
+a **= 5
+print("a **= 5 :- ",a)
+a //=5
+# print("a //= 5 :- ",a)
+# a &=5
+# print("a &= 5 :- ",a)
+# a |=5
+# print("a |= 5 :- ",a)
+# a ^=5
+# print("a ^= 5 :- ",a)
+# a >>=5
+# print("a >>= 5 :- ",a)
+# a <<=5
+# print("a <<= 5 :- ",a)

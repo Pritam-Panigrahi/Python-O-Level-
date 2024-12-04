@@ -1,0 +1,10 @@
+lst =[1,2,3,4,5]
+print("Before :-",lst)
+lst.insert(1,7)
+print("After:-",lst)
+lst.insert(-1,7)
+print("After:-",lst)
+lst.insert(-1,"x")
+print("After:-",lst)
+lst.insert(-1,"y")
+print("After:-",lst)

@@ -1,4 +1,4 @@
-print("Hello Preet")
+print("Hello Pritam")
 
 a = 10
 print(type(a))
